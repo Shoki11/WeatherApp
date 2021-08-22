@@ -11,40 +11,28 @@ class ViewController: UIViewController {
 
     /// 気温のラベル
     @IBOutlet weak var temperature: UILabel!
-    
     /// 気象のラベル
     @IBOutlet weak var weatherText: UILabel!
-    
     /// 最高気温のラベル
     @IBOutlet weak var maxText: UILabel!
-    
     /// 最低気温のラベル
     @IBOutlet weak var minText: UILabel!
-    
     /// 降水量のラベル
     @IBOutlet weak var precipitationText: UILabel!
-    
     /// 降水確率のラベル
     @IBOutlet weak var popText: UILabel!
-    
     /// 湿度のラベル
     @IBOutlet weak var humidityText: UILabel!
-    
     /// 体感温度のラベル
     @IBOutlet weak var feelsLikeText: UILabel!
-    
     /// 大気圧のラベル
     @IBOutlet weak var pressureText: UILabel!
-    
     /// UV指数のラベル
     @IBOutlet weak var uviText: UILabel!
-    
     /// 天気のアイコンのImageView
     @IBOutlet weak var displayWeatherIcon: UIImageView!
-    
     /// 風速のラベル
     @IBOutlet weak var windSpead: UILabel!
-    
     /// 雲のラベル
     @IBOutlet weak var cloudText: UILabel!
     
